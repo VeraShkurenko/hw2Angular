@@ -1,0 +1,32 @@
+div{
+width: 324;
+height: 40;
+top: 761px;
+left: 165px;
+padding-top: 10px;
+padding-right: 16px;
+padding-bottom: 10px;
+padding-left: 16px;
+gap: 10px;
+
+}
+p{
+font-family: Rubik;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #00000094;
+}
+span{
+font-family: Rubik;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color:  #6C5CE7;
+}

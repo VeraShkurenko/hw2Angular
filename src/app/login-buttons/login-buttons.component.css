@@ -1,0 +1,8 @@
+.login-buttons {
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

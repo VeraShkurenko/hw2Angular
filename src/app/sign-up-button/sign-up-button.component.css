@@ -1,0 +1,15 @@
+.TextContainer{
+gap: 10px;
+border-radius: 20px;
+border-width: 2px;
+padding: 10px;
+border: 1px solid #FFFFFF;
+color: #FFFFFF;
+font-family: Rubik;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+vertical-align: middle;
+color: #FFFFFF;
+}
